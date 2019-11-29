@@ -1,5 +1,8 @@
 # G-STORE
 
+<img src="https://github.com/FoyerSociety/Game-Store/blob/master/public/images/preview.png">
+
+
 ## Introduction
 G-Store est un site de vente de jeux en ligne développé par [RSI-Society](https://github.com/RSI-Society).
 
